@@ -1,0 +1,19 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm install && node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "binlist": "^1.2.0",
+    "binlookup": "^2.0.1",
+    "express": "^4.18.2",
+    "express-useragent": "^1.0.15",
+    "node-telegram-bot-api": "^0.61.0"
+  }
+}
